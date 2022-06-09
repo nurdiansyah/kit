@@ -1,0 +1,32 @@
+{
+	"name": "~TODO~",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"package": "svelte-kit package",
+		"preview": "svelte-kit preview",
+		"prepare": "svelte-kit sync"
+	},
+	"devDependencies": {
+		"@deboxsoft/svelte-components": "~1.0.0",
+    "@deboxsoft/svelte-core": "~1.0.0",
+    "@deboxsoft/svelte-icons": "^2.0.6",
+    "@nurdiansyah/eslint-config-devel": "^8.0.3",
+		"@sveltejs/adapter-auto": "workspace:*",
+		"@sveltejs/kit": "workspace:*",
+		"dotenv": "^10.0.0",
+    "eslint": "~8.0.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-svelte3": "3.2.1",
+    "faker": "^5.5.3",
+		"module-alias": "^2.2.2",
+    "nconf": "^0.10.0",
+    "nconf-yaml": "^1.0.2",
+    "prettier": "2.5.1",
+    "prettier-plugin-svelte": "2.4.0",
+    "rimraf": "^3.0.2",
+		"svelte": "^3.44.0"
+	},
+	"type": "module"
+}
